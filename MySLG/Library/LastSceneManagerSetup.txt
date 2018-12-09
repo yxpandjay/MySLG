@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MySLG/Scenes/SampleScene.unity
+- path: Assets/MySLG/Scenes/Login.unity
   isLoaded: 1
   isActive: 1
